@@ -1,0 +1,7 @@
+id = "city-lights"
+name = "City Lights"
+description = "A take on Yummygum's City Lights Dark Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["David Pait <davidjpait@gmail.com>"]
+repository = "https://github.com/DP19/zed-theme-city-lights"
